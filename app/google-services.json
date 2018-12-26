@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "880806594134",
+    "firebase_url": "https://quizgame-68e3f.firebaseio.com",
+    "project_id": "quizgame-68e3f",
+    "storage_bucket": "quizgame-68e3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880806594134:android:21172e0c72ef5ac4",
+        "android_client_info": {
+          "package_name": "com.example.cosmo.quiz_game_world"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880806594134-opt8q81q93m58cl5rikb922s43bge0hd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cosmo.quiz_game_world",
+            "certificate_hash": "bf9a1df42e8ee9eef5e14500210c06d88deb3588"
+          }
+        },
+        {
+          "client_id": "880806594134-qvs7h1l57ia7hdngqo2jo8rnb08p0uhb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6G1mxACbAI8EX5ukFDwm_CvXQ-keJXNo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880806594134-qvs7h1l57ia7hdngqo2jo8rnb08p0uhb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
